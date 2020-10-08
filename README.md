@@ -1,4 +1,6 @@
 # Botnix - A highly modular perl bot for IRC.
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbrainboxdotcc%2Fbotnix.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbrainboxdotcc%2Fbotnix?ref=badge_shield)
+
 
 Botnix is a highly modular, highly portable IRC bot designed to be connected to multiple networks at any one time. It is lightweight, fast and expandable, written in Perl. Botnix supports SSL, IPv6 and proxies, and is currently in beta stages of development. Many modules are already tested and working, such as modules to imitate an InfoBot, or to track when users were last seen. You can download it from our subversion repository or visit our forums below. There is a sizeable amount of documentation on our wiki, and more documentation will follow as it is needed. 
 
@@ -137,3 +139,7 @@ If this bugs you, find another use for the console after you spawn botnix. Fire 
 **Will botnix let me connect the same bot multiple times to the same network with different nicks?**
 
 Yes, but why would you want to do this legitimately? To do this, simply give each connection a different network name. 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbrainboxdotcc%2Fbotnix.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbrainboxdotcc%2Fbotnix?ref=badge_large)
